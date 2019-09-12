@@ -22,7 +22,7 @@ function johnLennonFacts(facts) {
       empty_array.push("I love the Beatles.")
       number++
     }
-    while (number<num)
+    while (num < 15)
     return empty_array
   }
   
